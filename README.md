@@ -1,6 +1,6 @@
 
 # DiscordChannelSpammer
- A simple bot that spams a discord channel every 0.8 seconds. Keep in mind you have to host this bot on your own, we reccommend repl.it if you are going to host a bot or any other python application.
+ A simple bot that spams a discord channel every 0.8 seconds. Keep in mind you have to host this bot on your own, we reccommend repl.it, if you are going to host a bot or any other python application. Keep in mind this python app is used at your own risk.
 ---
 ___
 
@@ -32,14 +32,17 @@ _____
 
 This code is using a library called discord.py by Copyright (c) 2015-present Rapptz, his project is also licensed under the MIT License. 
 Rapptz repository is in https://github.com/Rapptz/discord.py.
+
+Discord.py was recently discontinued by it's owner Rapptz, and his affiliates. Therefore you can use a fork of this framework called pycord, you can find this at https://github.com/Pycord-Development/pycord. :)
 _______________
 
 # How to use
 - Download Python from python.org
-- Install discord.py using pip: pip `install discord.py` / `pip3 install discord.py`
+- Install discord.py or pycord using pip: `pip install discord.py` or `pip3 install discord.py` for discord.py and `pip install py-cord` or `pip install -U git+https://github.com/Pycord-Development/pycord` for pycord, remember that using pip installs with git+ means that you have to have git installed.
 - Click and run the luancher.py.
 - Remember to have a your bot TOKEN from https://discord.com/developers/applications
-- Also remember that you have to get the channel id by turning on developer mode in discord in settings under advanced.
+- Also remember that you have to get the channel id by turning on developer mode in discord, in settings under advanced.
+- Thank you for using our app. :)
 ----
 # Contact
 You can contact me at lucasoAlt@outlook.com.
