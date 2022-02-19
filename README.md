@@ -7,8 +7,8 @@ ___
 # LICENSE
 MIT License
 
-Copyright (c) 2021 lucaso60
-
+Copyright (c) 2022 Lucas "Lucaso" Nguyen for Lucestra Studios <br>
+Copytight (c) 2022 Lucestra Studios <br>
 Copyright (c) 2015-present Rapptz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
